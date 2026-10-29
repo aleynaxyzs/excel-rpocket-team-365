@@ -1,0 +1,13 @@
+*.bat text eol=crlf
+
+*.map linguist-generated
+src/**/*.js linguist-detectable
+
+*.yml linguist-detectable=false
+
+go.sum linguist-generated
+*.min.css linguist-generated
+vendor/* linguist-vendored
+*.gif binary
+public/* linguist-vendored
+# eof fcccc675
