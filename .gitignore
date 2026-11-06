@@ -1,0 +1,7 @@
+yarn-error.log*
+coverage/
+*.log
+.cache/
+node_modules/
+.pnpm-store/
+_site/
